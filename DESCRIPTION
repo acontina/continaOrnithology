@@ -1,6 +1,6 @@
 Package: continaOrnithology
 Type: Package
-Title: What the Package Does (Title Case)
+Title: in progress
 Version: 0.1.0
 Author: Andrea Contina
 Maintainer: andrea.contina@utrgv.edu 
@@ -12,4 +12,4 @@ LazyData: true
 Depends: 
     R (>= 3.1)
 Imports:
-    stringr, rebird, dplyr, ggplot2, data.table
+    ggplot2
