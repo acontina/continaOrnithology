@@ -9,7 +9,5 @@ Description: A collection of functions for Subtropical Ornithology (BIOL-6412)
 License: restricted
 Encoding: UTF-8
 LazyData: true
-Depends: 
-    R (>= 3.1)
 Imports:
     ggplot2
