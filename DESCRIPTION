@@ -1,7 +1,7 @@
 Package: continaOrnithology
 Type: Package
-Title: in progress
-Version: 0.1.0
+Title: class projects (in progress)
+Version: 0.1.1
 Authors@R: person("Andrea", "Contina", email = "andrea.contina@utrgv.edu",
                   role = c("aut", "cre"))
 Description: A collection of functions for Subtropical Ornithology (BIOL-6412).
