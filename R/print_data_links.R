@@ -5,8 +5,5 @@ print_data_links <- function(data_links) {
 }
 
 # Example usage
-data_links <- "https://github.com/acontina/continaOrnithology/tree/master/data"
-print_data_links(data_links)
-
-
-print_data_links(data_links)
+#data_links <- "https://github.com/acontina/continaOrnithology/tree/master/data"
+#print_data_links(data_links)
